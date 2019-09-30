@@ -1,6 +1,6 @@
 # P3 Programming Bootcamp 2019: Introduction to Python
 
-Materials for the *Introduction to Python section* of the Programming Bootcamp hosted by the [Predictive Plant Phenomics (P3) NRT program][p3-landing] on August 7-10, 2019.  These workshops are intended as a gentle introduction for those who have little to no experience in R, Python, and UNIX.  There are four parts to this workshop:
+Materials for the *Introduction to Python section* of the Programming Bootcamp hosted by the [Predictive Plant Phenomics (P3) NRT program][p3-landing] on August 13-19, 2019.  These workshops are intended as a gentle introduction for those who have little to no experience in R, Python, and UNIX.  There are five parts to this workshop:
 
 * [August 13: *Introduction to R*][intro-to-r] taught by [Paul Villanueva][paul-github]
 * [August 14: *Introduction to Python*][intro-to-python] (this page) taught by [Paul Villanueva][paul-github]
